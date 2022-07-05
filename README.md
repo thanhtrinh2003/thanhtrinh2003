@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thanhtrinh2003
-- 👀 I’m interested in Mathematics and Computer Science (Specifically in Computer Vision)
+- 👀 I’m interested in Mathematics and Computer Science.
 - 📫 How to reach me: thanhtrinh280506@gmail.com or thanh.trinh03@gatech.edu 
 
 <!---
