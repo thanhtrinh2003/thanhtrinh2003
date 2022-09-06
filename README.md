@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thanhtrinh2003
-- 👀 I’m interested in Mathematics and Computer Science.
+- 👋 Hi, my name is Thanh Trinh and I'm from Vietnam
+- 👀 I’m interested in learning more about blockchain and software dev. 
 - 📫 How to reach me: thanhtrinh280506@gmail.com or thanh.trinh03@gatech.edu 
 
 <!---
