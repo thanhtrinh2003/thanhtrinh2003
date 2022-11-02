@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Thanh Trinh and I'm from Vietnam
-- Freshman CS Major, with Intelligence and Info Thread from Georgia Tech.
-- 👀 I’m interested in learning more about blockchain and full-stack software dev. 
+- Freshman CS Major, with System Architechture and Info Network Thread from Georgia Tech.
+- 👀 I’m interested in learning more about blockchain.
 - 📫 How to reach me: thanhtrinh280506@gmail.com or thanh.trinh03@gatech.edu 
 
 
