@@ -6,7 +6,7 @@
 
 My Info and Skills
 - [Resume](https://github.com/thanhtrinh2003/thanhtrinh2003/blob/main/Thanh%20Trinh%20Resume%20-%20with%20no%20lines.pdf)
-- Skills: C++, Java, Python, Rust, JS
+- Skills: C++, Java, Python, Rust, JS, Solidity
 
 <!---
 thanhtrinh2003/thanhtrinh2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
