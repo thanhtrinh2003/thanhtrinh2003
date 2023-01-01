@@ -1,4 +1,4 @@
-# 💫 Me:
+## 💫 Self-intro:
 👋 Hi, my name is Thanh Trinh and I'm from Vietnam<br>🐝 Freshman CS Major, with System Architechture and Info Network Thread from Georgia Tech.<br>👀 I’m interested in learning more about blockchain.<br>📫 How to reach me: thanhtrinh280506@gmail.com or thanh.trinh03@gatech.edu
 
 
