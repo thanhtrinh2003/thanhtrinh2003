@@ -1,5 +1,5 @@
 ## 💫 Self-intro:
-👋 Hi, my name is Thanh Trinh and I'm from Vietnam 🇻🇳<br>🐝 Sophomore CS Major, with System Architechture and Info Network Thread from Georgia Tech.<br>👀 I’m interested in developing and contributing to web3, defi projects<br>📫 How to reach me: thanhtrinh280506@gmail.com or thanh.trinh03@gatech.edu
+👋 Hi, my name is Thanh Trinh and I'm from Vietnam 🇻🇳<br>🐝 Sophomore CS Major, with System Architechture and Info Network Thread from Georgia Tech.<br>📫 How to reach me: thanhtrinh280506@gmail.com or thanh.trinh03@gatech.edu
 
 
 ## 🌍 Find me on:
